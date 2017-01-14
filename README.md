@@ -1,4 +1,6 @@
 # GitWorkshopBZU
+Git
+
 In this workshop we will learn basic git commands both through the GUI provided by the GithubDesktop and the command line.
 
 # common mistakes
